@@ -1,3 +1,1 @@
-# Cyber Security
-
-## Education
+Cyber Security
